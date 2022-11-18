@@ -69,7 +69,7 @@ for a Raspberry Pi without doing any Android programming. All the coding is done
 Raspberry Pi in Python or C. The connection is made from the Android device via Bluetooth LE.
 
 There are two components: the BeetleIN Android 
-app available from the Google Play Store (*** NOT AVAILABLE YET ***), and server code that runs
+app available from the Google Play Store, and server code that runs
 on the Pi and waits for Android devices to connect.
 This repository contains the server library and full documentation showing how to write
 your own code.
@@ -107,7 +107,7 @@ could be running all three of these Android screens simultaneously.
 
 Download the BeetleIN app from the Google Play Store:
 
-NOT AVAILABLE YET
+[https://play.google.com/store/apps/details?id=com.petzval.beetlein](https://play.google.com/store/apps/details?id=com.petzval.beetlein)
 
 The server code must be downloaded from the github repository to the Pi.
 There is a Pi program called git that downloads files from github. It is installed
@@ -598,7 +598,7 @@ process.
 [btle\_image\_text](#4-2-23-btle\_image\_text) - Draw text on image item<br/>
 [btle\_image\_multiline](#4-2-20-btle\_image\_multiline) - Draw multiline on image item<br/>
 [btle\_scale\_data](#4-2-34-btle\_scale\_data) - Scale plot data for btle\_image\_multiline<br/>
-[btle\_image\_clear](#4-2-18-btle\_image\_clear) - Clear image<br/
+[btle\_image\_clear](#4-2-18-btle\_image\_clear) - Clear image<br/>
 [btle\_font](#4-2-13-btle\_font) - Set font for following text and button items<br/>
 [btle\_change\_text](#4-2-7-btle\_change\_text) - Change text of item<br/>
 [btle\_change\_colour](#4-2-5-btle\_change\_colour) - Change colour of item<br/>
